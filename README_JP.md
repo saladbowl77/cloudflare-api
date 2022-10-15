@@ -1,4 +1,4 @@
-[English]([/README.md])|日本語
+[English](/README.md) / 日本語
 
 ## cl_apiについて
 このライブラリーはCLoudflare APIの操作を簡単にするものです。
