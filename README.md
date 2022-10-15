@@ -1,4 +1,4 @@
-English|[./README_JP.md]([日本語])
+English|[日本語]([./README_JP.md])
 
 ## about cl-api
 This library is call cloudflare api easily.
