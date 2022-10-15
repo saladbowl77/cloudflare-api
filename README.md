@@ -1,4 +1,3 @@
-README
 English|[./README_JP.md]([日本語])
 
 ## about cl-api
